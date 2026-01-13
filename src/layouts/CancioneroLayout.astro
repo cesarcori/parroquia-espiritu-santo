@@ -18,13 +18,15 @@ const {
   updatedDate,
   heroImage,
 } = Astro.props;
+
+const baseUrl = `${Astro.url.origin}${import.meta.env.BASE_URL}`;
 ---
 
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/logo-cc.svg" />
+    <link rel="icon" type="image/svg+xml" href=`${baseUrl}/logo.png` />
     <meta name="generator" content={Astro.generator} />
     <title>{pageTitle}</title>
   </head>

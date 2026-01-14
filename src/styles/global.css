@@ -6,7 +6,7 @@
   }
 
   p {
-    @apply mt-2 text-gray-800
+    @apply mt-2 text-gray-800 pt-2
   }
 
   h1 {

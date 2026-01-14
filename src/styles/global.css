@@ -1,8 +1,16 @@
 @import "tailwindcss";
 
 @layer base {
-  body {
-    @apply mt-2 max-w-7xl mx-auto
+  main {
+    @apply mt-2 mx-auto max-w-7xl md:px-6 sm:px-6 max-sm:px-8
+  }
+
+  p {
+    @apply mt-2 text-gray-800
+  }
+
+  h1 {
+    @apply text-gray-800 text-center font-bold text-2xl
   }
 }
 
@@ -10,4 +18,9 @@
   .text-title {
     @apply mt-2 text-4xl text-center;
   }
+
+  .date {
+    @apply mt-0 text-gray-400
+  }
+
 }

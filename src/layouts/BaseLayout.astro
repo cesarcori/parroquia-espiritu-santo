@@ -11,13 +11,15 @@ const baseUrl = `${Astro.url.origin}${import.meta.env.BASE_URL}`;
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="icon" type="image/svg+xml+png" href=`${baseUrl}/logo.png` />
 		<meta name="generator" content={Astro.generator} />
 		<title>{SITE_TITLE_DEFAULT}</title>
 	</head>
 	<body>
 		<Header />
-		<slot />
+		<main class="max-sm:mt-8">
+			<slot />
+		</main>
 	</body>
 </html>

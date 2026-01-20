@@ -1,35 +1,39 @@
 ---
-title: Iglesia Joven
+title: Vienen con Alegría
 description: Canto de entrada
 pubDate: 2026-01-20
 ---
 
-Somos como un torrente  
-que recien se está formando  
-y que mañana a más tardar  
-arrasará con todo  
-  
-Nos estamos preparando  
-para redimir al mundo  
-Y ese hombre que esta esclavo si  
-que forma la sociedad  
-  
-Somos iglesia joven  
-tratamos de transformar el mundo entero  
-en una sociedad limpia y justa  
-donde no exista la esclavitud  
-  
-No nos detendrá nada ni nadie  
-seremos los que rompan las cadenas  
-las cadenas que atan  
-a este mundo sin amor  
-  
-Será una guerra sin armas  
-pero si de muchos cambios  
-al cual el hombre tendrá que enfrentar  
-con solo su conversión  
-  
-Entonces será otra  
-la sociedad ideal  
-la que Cristo quiso en la tierra  
-Y predicó al mundo  
+Vienen con alegría, Señor  
+cantando vienen con alegría, Señor  
+
+Los que caminan por la vida, Señor  
+sembrando tu paz y amor  
+Los que caminan por la vida, Señor  
+sembrando tu paz y amor  
+
+Vienen trayendo la esperanza  
+a un mundo cargado de ansiedad  
+a un mundo que busca y que no alcanza  
+caminos de amor y de amistad  
+
+Vienen con alegría, Señor  
+cantando vienen con alegría, Señor  
+
+Los que caminan por la vida, Señor  
+sembrando tu paz y amor  
+Los que caminan por la vida, Señor  
+sembrando tu paz y amor  
+
+Vienen trayendo entre sus manos  
+esfuerzos de hermanos por la paz  
+Deseos de un mundo más humano  
+Que hacen el bien y la verdad  
+
+Vienen con alegría, Señor  
+cantando vienen con alegría, Señor  
+
+Los que caminan por la vida, Señor  
+sembrando tu paz y amor  
+Los que caminan por la vida, Señor  
+sembrando tu paz y amor  

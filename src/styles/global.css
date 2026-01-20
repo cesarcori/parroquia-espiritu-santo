@@ -2,7 +2,7 @@
 
 @layer base {
   main {
-    @apply mt-2 mx-auto max-w-7xl md:px-6 sm:px-6 max-sm:px-8
+    @apply mt-8 mx-auto max-w-7xl md:px-6 sm:px-6 max-sm:px-8
   }
 
   p {
@@ -11,6 +11,10 @@
 
   h1 {
     @apply text-gray-800 text-center font-bold text-2xl
+  }
+
+  header {
+    @apply sm:shadow-sm
   }
 }
 

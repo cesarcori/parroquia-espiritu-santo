@@ -1,5 +1,5 @@
 ---
-title: Yo Celebraré
+title: 5. Yo Celebraré
 description: Canto de entrada
 pubDate: 2026-01-20
 ---

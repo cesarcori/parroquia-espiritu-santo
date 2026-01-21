@@ -3,9 +3,34 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 
 import { getCollection } from "astro:content";
 
-const posts = (await getCollection("cancion")).sort(
-  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+const posts = (await getCollection("cancion")).sort((a, b) =>
+  a.id.toLocaleLowerCase().localeCompare(b.id.toLocaleLowerCase()),
 );
+
+// const posts = (await getCollection("cancion")).sort((a, b) => {
+//   const titleA = a.data.title;
+//   const titleB = b.data.title;
+
+//   // Check if titles start with numbers
+//   const hasNumberA = /^\d+\./.test(titleA);
+//   const hasNumberB = /^\d+\./.test(titleB);
+
+//   // If both have numbers, extract and compare them
+//   if (hasNumberA && hasNumberB) {
+//     const numA = parseInt(titleA.match(/^(\d+)\./)[1], 10);
+//     const numB = parseInt(titleB.match(/^(\d+)\./)[1], 10);
+//     return numA - numB;
+//   }
+
+//   // If only one has a number, put numbered items at the end
+//   if (hasNumberA && !hasNumberB) return 1;
+//   if (!hasNumberA && hasNumberB) return -1;
+
+//   // Neither has a number, sort alphabetically
+//   return titleA.toLocaleLowerCase().localeCompare(titleB.toLocaleLowerCase());
+// });
+
+console.log("posts", posts);
 
 const baseUrl = `${import.meta.env.BASE_URL}`;
 ---

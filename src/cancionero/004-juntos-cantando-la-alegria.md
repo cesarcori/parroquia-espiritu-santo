@@ -1,5 +1,5 @@
 ---
-title: Juntos Cantando la Alegría
+title: 4. Juntos Cantando la Alegría
 description: Canto de entrada
 pubDate: 2026-01-20
 ---

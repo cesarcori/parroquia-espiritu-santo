@@ -1,5 +1,5 @@
 ---
-title: Vienen con Alegría
+title: 2. Vienen con Alegría
 description: Canto de entrada
 pubDate: 2026-01-20
 ---

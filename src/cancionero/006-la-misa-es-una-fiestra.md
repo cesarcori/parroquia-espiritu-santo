@@ -1,5 +1,5 @@
 ---
-title: La Misa es una Fiesta
+title: 6. La Misa es una Fiesta
 description: Canto de entrada
 pubDate: 2026-01-20
 ---

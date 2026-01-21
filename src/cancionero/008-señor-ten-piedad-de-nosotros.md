@@ -1,5 +1,5 @@
 ---
-title: Señor Ten Piedad de Nosotros
+title: 8. Señor Ten Piedad de Nosotros
 description: Perdón
 pubDate: 2026-01-20
 ---

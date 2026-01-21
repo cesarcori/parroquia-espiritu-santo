@@ -1,5 +1,5 @@
 ---
-title: Buenos Días Señor Sol
+title: 3. Buenos Días Señor Sol
 description: Canto de entrada
 pubDate: 2026-01-20
 ---

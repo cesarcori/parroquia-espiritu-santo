@@ -1,5 +1,5 @@
 ---
-title: Padre Amerindio
+title: 67. Padre Amerindio
 description: Canción para la hostia
 pubDate: 2026-01-12
 ---

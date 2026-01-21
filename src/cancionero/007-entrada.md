@@ -1,5 +1,5 @@
 ---
-title: Entrada
+title: 7. Entrada
 description: Canto de entrada
 pubDate: 2026-01-20
 ---

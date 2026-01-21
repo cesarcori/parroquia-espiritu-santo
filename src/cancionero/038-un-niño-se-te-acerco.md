@@ -1,6 +1,6 @@
 ---
 title: 38. Un Niño se te Acercó
-description: Aleluya aclamaciones al evangelio
+description: Presentación de las ofrendas
 pubDate: 2026-01-20
 ---
 

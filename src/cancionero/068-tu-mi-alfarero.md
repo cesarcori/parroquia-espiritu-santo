@@ -30,6 +30,6 @@ Acaba de encontrarte
 Toma mi barro y vuelve  
 A empezar de nuevo (Bis)  
 De nuevo de nuevo  
-Tu mi alfarero*  
+Tu mi alfarero**  
 
        

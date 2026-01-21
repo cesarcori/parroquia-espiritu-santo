@@ -1,6 +1,6 @@
 ---
 title: 42. Si el Espíritu de Dios
-description: Presentación de las ofrendas
+description: Santo
 pubDate: 2026-01-20
 ---
 

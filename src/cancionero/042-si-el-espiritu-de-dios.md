@@ -19,5 +19,5 @@ Y la tierra llena de tu gloria esta (BIS)**
 Cielo y tierra pasarán  
 Mas tu palabra no pasarán (BIS)  
 No, no, no pasarán  
-No, no, no, no, no, no pasará.  
-  
+No, no, no, no, no, no pasará.
+

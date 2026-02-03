@@ -1,5 +1,5 @@
 ---
-title: 73. Alma de Cristo
+title: 74. Tu Has venido a la Orilla
 description: Comunión acción de gracias
 pubDate: 2026-01-20
 ---

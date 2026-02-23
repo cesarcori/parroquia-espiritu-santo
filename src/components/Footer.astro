@@ -1,0 +1,14 @@
+---
+const today = new Date();
+import SocialLinks from "../components/SocialLinks.astro";
+---
+
+<footer
+  class="sm:flex sm:justify-between bg-gray-100 py-4 sm:px-50 max-sm:text-center"
+>
+  <p>
+    &copy; {today.getFullYear()}
+    Cesar Cori. Todos los derechos reservados
+  </p>
+  <SocialLinks />
+</footer>

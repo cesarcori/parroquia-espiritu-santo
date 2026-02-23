@@ -16,6 +16,10 @@
   header {
     @apply sm:shadow-sm
   }
+
+  footer {
+    @apply fixed bottom-0 w-full
+  }
 }
 
 @layer components {

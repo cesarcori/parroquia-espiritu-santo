@@ -4,11 +4,13 @@ import SocialLinks from "../components/SocialLinks.astro";
 ---
 
 <footer
-  class="sm:flex sm:justify-between items-center bg-gray-100 py-4 sm:px-50 max-sm:text-center"
+  class="mt-4 sm:flex sm:justify-between items-center bg-gray-100 py-4 sm:px-50 max-sm:text-center"
 >
   <div class="flex-col">
     Síguenos en nuestras redes sociales:
-    <SocialLinks />
+    <div class="mt-4">
+      <SocialLinks />
+    </div>
   </div>
   <div>
     &copy; {today.getFullYear()}

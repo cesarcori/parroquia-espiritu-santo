@@ -20,6 +20,15 @@
   footer {
     @apply bottom-0 w-full
   }
+
+  .btn {
+    @apply px-4 py-2 rounded-md cursor-pointer;
+  }
+
+  .btn-primary {
+    @apply bg-blue-500 text-white hover:bg-blue-600;
+  }
+
 }
 
 @layer components {

@@ -19,7 +19,7 @@ const { Content } = await render(post);
 <CancioneroLayout {...post.data}>
   <div class="flex justify-end">
     <button class="btn btn-primary flex items-center gap-2" id="download-pdf">
-      Descargar PDF
+      <span class="max-sm:hidden">Descargar PDF</span>
       <svg
         xmlns="http://www.w3.org/2000/svg"
         fill="none"

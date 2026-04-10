@@ -56,6 +56,7 @@ const { Content } = await render(post);
         doc.setFontSize(18);
         doc.text(title, 10, 10);
 
+        // TODO: Agregar una marca de agua con el nombre: "Parroquia Espíritu Santo" y el autor "Cesar Cori"
         doc.setFontSize(11);
         const splitText = doc.splitTextToSize(body, 180);
         doc.text(splitText, 10, 20);
